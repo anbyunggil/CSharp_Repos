@@ -1,0 +1,31 @@
+namespace RandomColorApp
+{
+    public partial class Form1 : Form
+    {
+        private Random rand;
+        public Form1()
+        {
+            InitializeComponent();  //생성자
+
+            Load += Form1_Load;
+            MouseClick += RandomColorAction;
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            rand = new Random();
+        }
+        
+        //사용자 정의 메소드
+        private void RandomColorAction(object sender, MouseEventArgs e)
+        {
+            int red = rand.Next(0, 256);
+            int green = rand.Next(0, 256);
+            int blue = rand.Next(0, 256);   
+            int purple = rand.Next(0, 256);
+            int yellow = rand.Next(0, 256);
+            this.BackColor = Color.FromArgb(red, green, blue);
+        }
+    }
+}

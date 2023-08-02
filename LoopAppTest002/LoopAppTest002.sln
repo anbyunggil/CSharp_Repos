@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopAppTest002", "LoopAppTest002\LoopAppTest002.csproj", "{64DD9229-9580-45B3-8A16-4937C393998D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64DD9229-9580-45B3-8A16-4937C393998D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DD9229-9580-45B3-8A16-4937C393998D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DD9229-9580-45B3-8A16-4937C393998D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DD9229-9580-45B3-8A16-4937C393998D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A92527E-169F-4D39-9487-81862EFC5D80}
+	EndGlobalSection
+EndGlobal

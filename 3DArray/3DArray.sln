@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DArray", "3DArray\3DArray.csproj", "{670D826D-A61A-40D7-AFE5-E4FAD8599E7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670D826D-A61A-40D7-AFE5-E4FAD8599E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670D826D-A61A-40D7-AFE5-E4FAD8599E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670D826D-A61A-40D7-AFE5-E4FAD8599E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670D826D-A61A-40D7-AFE5-E4FAD8599E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF4DA51E-79AF-480D-92D8-122C70C30493}
+	EndGlobalSection
+EndGlobal

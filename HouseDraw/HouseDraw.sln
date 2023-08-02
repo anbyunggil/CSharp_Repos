@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseDraw", "HouseDraw\HouseDraw.csproj", "{B465D7A2-D45B-4570-A748-BEDA7660C8B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B465D7A2-D45B-4570-A748-BEDA7660C8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B465D7A2-D45B-4570-A748-BEDA7660C8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B465D7A2-D45B-4570-A748-BEDA7660C8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B465D7A2-D45B-4570-A748-BEDA7660C8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E8344C4-C5D6-440F-9B54-4C0030B02A41}
+	EndGlobalSection
+EndGlobal
