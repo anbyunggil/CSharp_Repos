@@ -32,7 +32,7 @@ namespace WindowsFormsApp4
         private void Form1_Load(object sender, EventArgs e)
         {
             progressBar1.Maximum = 3000; // 프로그래스바 3초(3000milsec)를 이용
-            progressBar1.Value = 0;   //0으로 초기화
+            progressBar1.Value = 0;     //0으로 초기화
             timer1.Interval = 100; // 타이머 인터벌이 초기값이 100이다. 
         }
 
